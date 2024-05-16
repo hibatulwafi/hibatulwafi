@@ -1,6 +1,6 @@
 # Hi there, I'm Wafi 👋
 
-![Banner Image](https://github.com/hibatulwafi/profile/blob/main/github-header.png)
+![Banner Image](https://github.com/hibatulwafi/hibatulwafi/blob/main/github-header.png)
 
 Welcome to my GitHub profile! I'm Wafi, a passionate Software Developer with a strong interest in web development, AI, mobile app development. 
 
