@@ -1,9 +1,9 @@
-# Hi there, I'm Wafi 👋
+# Hi there 👾
 
 ![Banner Image](https://github.com/hibatulwafi/hibatulwafi/blob/main/github-header.png)
 
 Lorem ipsum, dolor sit amet!
-Assalamualaikum, jamet - jamet :)
+Assalamualaikum, jamet - jamet :) 🙏
 
 ## 🚀 About Me
 
