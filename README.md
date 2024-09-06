@@ -8,10 +8,10 @@ Assalamualaikum, jamet - jamet :) 🙏
 ## 🚀 About Me
 
 - 🌱 I’m currently learning React, Vue, Node.js, Python, Laravel, Go, Java.
-- 👨‍💻 All of my projects are available at my github repository.
-- 💬 Ask me about web development & mobile app development.
+- 👨‍💻 All of my projects are available at my github repository. (except private sshhh 🤫)
+- 💬 Ask me about web development, mobile app development & AI.
 - 📫 How to reach me: [hiwapiputra@gmail.com](mailto:hiwapiputra@gmail.com).
-- 📄 Know about my experiences [TBD](https:#).
+- 📄 Know about my experiences [TBD 👻](https:#).
 
 ## 🛠️ Languages and Tools
 
@@ -39,8 +39,8 @@ Assalamualaikum, jamet - jamet :) 🙏
 
 ## ⚡ Fun Fact
 
-I love read fiction book and photography in my free time, and I'm a pluviophile really likes rain, because it drops water from the sky ehe~
-
+I love read fiction book and photography in my free time, and I'm a pluviophile really likes rain, cuz it drops water from the sky ehe~
+And affogato lover ☕️x🍨 ehe~
 ---
 
 ⭐️ From [hibatulwafi](https://github.com/hibatulwafi)
