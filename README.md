@@ -39,8 +39,8 @@ Assalamualaikum, jamet - jamet :) 🙏
 
 ## ⚡ Fun Fact
 
-I love read fiction book and photography in my free time, and I'm a pluviophile really likes rain, cuz it drops water from the sky ehe~
-And affogato lover ☕️🍨 ehe~
+I love read fiction book,photography and I'm a pluviophile really likes rain, cuz it drops water from the sky ehe~
+And affogato ☕️🍨 ehe~
 ---
 
 ⭐️ From [hibatulwafi](https://github.com/hibatulwafi)
