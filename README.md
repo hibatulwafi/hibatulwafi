@@ -1,6 +1,5 @@
 # Hi there 👾
-My Page [![Page](https://hibatulwafi.github.io/personal-web-nuxt/)
-
+My Page [![My Page](https://img.shields.io/badge/My%20Page-Visit-green)](https://hibatulwafi.github.io/personal-web-nuxt/)
 ![Banner Image](https://github.com/hibatulwafi/hibatulwafi/blob/main/github-header.png)
 
 Lorem ipsum, dolor sit amet!
