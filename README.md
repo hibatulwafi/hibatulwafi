@@ -8,7 +8,7 @@ Assalamualaikum, jamet - jamet :) 🙏
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning Flutter, Vue, Node.js, Python, Laravel, Go, Java.
+- 🌱 I’m currently learning Flutter, Vue, Python, Laravel.
 - 👨‍💻 All of my projects are available at my github repository. (except private sshhh 🤫)
 - 💬 Ask me about web development, mobile app development & AI.
 - 📫 How to reach me: [hiwapiputra@gmail.com](mailto:hiwapiputra@gmail.com).
