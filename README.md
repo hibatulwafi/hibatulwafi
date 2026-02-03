@@ -1,7 +1,9 @@
 # Hi there 👾
 Visit my page [![My Page](https://img.shields.io/badge/My%20Page-Visit-green)](https://hibatulwafi.github.io/personal-web-nuxt/)
 
-![Banner Image](https://github.com/hibatulwafi/hibatulwafi/blob/main/github-header.png)
+<p align="center">
+  <img src="space-shooter.gif" alt="GitHub Space Shooter" />
+</p>
 
 Lorem ipsum, dolor sit amet!
 Assalamualaikum, jamet - jamet :) 🙏
