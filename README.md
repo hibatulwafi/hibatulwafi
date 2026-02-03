@@ -1,5 +1,5 @@
 # Hi there 👾
-Visit my page [![My Page](https://img.shields.io/badge/My%20Page-Visit-green)](https://hibatulwafi.github.io/personal-web-nuxt/)
+Visit my page [![My Page](https://img.shields.io/badge/My%20Page-Visit-green)]([https://hibatulwafi.github.io/personal-web-nuxt/](http://hiwapiputra.my.id/))
 
 <p align="center">
   <img src="space-shooter.gif" alt="GitHub Space Shooter" />
