@@ -32,10 +32,6 @@ Assalamualaikum, jamet - jamet :) 🙏
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
-## 🔥 My Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hibatulwafi&show_icons=true&theme=radical&cac
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hiwapiputra/)
@@ -46,5 +42,3 @@ Assalamualaikum, jamet - jamet :) 🙏
 - I love read fiction book,photography and I'm a pluviophile really likes rain, cuz it drops water from the sky ehe~
 And affogato ☕️🍨 ehe~
 ---
-
-⭐️ From [hibatulwafi](https://github.com/hibatulwafi)
