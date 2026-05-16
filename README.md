@@ -34,9 +34,7 @@ Assalamualaikum, jamet - jamet :) 🙏
 
 ## 🔥 My Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hibatulwafi&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hibatulwafi&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hibatulwafi&show_icons=true&theme=radical&cac
 
 ## 📫 Connect with Me
 
